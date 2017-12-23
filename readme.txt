@@ -16,3 +16,5 @@ Creating a new branch is quick AND simple.
 >>>>>>> f1
 
 11111111111111111
+
+this is a new merge
